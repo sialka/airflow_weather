@@ -1,3 +1,4 @@
-/venv
-/py/key.py
 ambiente.sh
+/venv/*
+/py/key.py
+/airflow/logs/*

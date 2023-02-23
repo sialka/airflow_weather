@@ -51,3 +51,9 @@ Observações
     5. No navegador: localhost:8080
 
 
+### Fase 3
+
+Exemplos simples de Dags:
+
+ * helloWold.py
+ * tarefas.py
