@@ -21,6 +21,7 @@ https://weather.visualcrossing.com
 
 ### Bibliotecas
 
+* Pandas
 
 ### Fase 1
 
@@ -39,9 +40,11 @@ $ python3 getinfoClima.py
 
 **Instalando o Airflow**
 
+```bash
 (1) $ pip install 'apache-airflow==2.3.2' --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.3.2/constraints-3.9.txt"
 (2) $ export AIRFLOW_HOME=/home/alura/Documents/PrevisaoTempo/airflow
 (3) $ airflow standalone
+```
 
 Observações 
     1. Em ambiente virtual venv
@@ -57,3 +60,19 @@ Exemplos simples de Dags:
 
  * helloWold.py
  * tarefas.py
+
+### Fase 4
+
+Exemplo do uso de Jinja
+
+* jinja.py
+
+### Fase 5
+
+A key usada na API registramos em Admin -> Variables
+
+weather_api_key = xxxxxxx
+
+Executamos:
+
+* Dados_Climaticos.py

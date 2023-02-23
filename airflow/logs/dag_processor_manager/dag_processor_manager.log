@@ -1009,3 +1009,949 @@ File Path                                                      PID    Runtime   
 /home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:04:13
 /home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:04:12
 ================================================================================
+[2023-02-23 10:04:50,134] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:04:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:04:43
+================================================================================
+[2023-02-23 10:05:07,355] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:05:07,356] {manager.py:693} INFO - There are 2 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:05:20,304] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:05:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.11s           2023-02-23T18:05:13
+================================================================================
+[2023-02-23 10:05:50,486] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:05:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:05:43
+================================================================================
+[2023-02-23 10:06:20,637] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:06:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:06:13
+================================================================================
+[2023-02-23 10:06:50,934] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.11s           2023-02-23T18:06:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:06:43
+================================================================================
+[2023-02-23 10:07:21,115] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:07:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:07:13
+================================================================================
+[2023-02-23 10:07:51,304] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:07:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:07:44
+================================================================================
+[2023-02-23 10:08:21,480] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:08:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.11s           2023-02-23T18:08:14
+================================================================================
+[2023-02-23 10:08:51,668] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:08:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:08:44
+================================================================================
+[2023-02-23 10:09:21,847] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:09:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:09:14
+================================================================================
+[2023-02-23 10:09:52,036] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:09:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:09:44
+================================================================================
+[2023-02-23 10:10:07,381] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:10:07,383] {manager.py:693} INFO - There are 2 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:10:22,219] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:10:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:10:14
+================================================================================
+[2023-02-23 10:10:52,405] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:10:45
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:10:44
+================================================================================
+[2023-02-23 10:11:22,584] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:11:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:11:15
+================================================================================
+[2023-02-23 10:11:50,111] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-23 10:11:58,039] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-23 10:11:58,039] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-23 10:11:58,039] {manager.py:482} INFO - Checking for new files in /home/alura/Documents/PrevisaoTempo/airflow/dags every 300 seconds
+[2023-02-23 10:11:58,039] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:11:58,040] {manager.py:693} INFO - There are 3 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:11:58,288] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.20s           2023-02-23T18:11:58
+================================================================================
+[2023-02-23 10:12:28,580] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.20s           2023-02-23T18:12:00
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.22s           2023-02-23T18:11:59
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.21s           2023-02-23T18:12:28
+================================================================================
+[2023-02-23 10:12:58,863] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:12:31
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:12:29
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.20s           2023-02-23T18:12:58
+================================================================================
+[2023-02-23 10:13:29,246] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:13:02
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:13:00
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:13:29
+================================================================================
+[2023-02-23 10:13:59,356] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:13:32
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:13:30
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:13:59
+================================================================================
+[2023-02-23 10:14:29,537] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.11s           2023-02-23T18:14:02
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:14:00
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:14:29
+================================================================================
+[2023-02-23 10:14:59,718] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:14:32
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:14:30
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:14:59
+================================================================================
+[2023-02-23 10:15:29,896] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:15:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:15:00
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:15:29
+================================================================================
+[2023-02-23 10:16:00,076] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:15:33
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:15:31
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:16:00
+================================================================================
+[2023-02-23 10:16:30,259] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:16:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:16:01
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:16:30
+================================================================================
+[2023-02-23 10:16:58,068] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:16:58,070] {manager.py:693} INFO - There are 3 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:17:00,447] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:16:33
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:16:31
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:17:00
+================================================================================
+[2023-02-23 10:17:30,622] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:17:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:17:01
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:17:30
+================================================================================
+[2023-02-23 10:18:00,803] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:17:33
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:17:31
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.11s           2023-02-23T18:18:00
+================================================================================
+[2023-02-23 10:18:31,001] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:18:04
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:18:02
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:18:31
+================================================================================
+[2023-02-23 10:19:01,178] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:18:34
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:18:32
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:19:01
+================================================================================
+[2023-02-23 10:19:31,355] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:19:04
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:19:02
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:19:31
+================================================================================
+[2023-02-23 10:20:01,537] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:19:34
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:19:32
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.11s           2023-02-23T18:20:01
+================================================================================
+[2023-02-23 10:20:31,714] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:20:04
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:20:02
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:20:31
+================================================================================
+[2023-02-23 10:21:01,894] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:20:35
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:20:33
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:21:01
+================================================================================
+[2023-02-23 10:21:32,071] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                             1           0  0.10s           2023-02-23T18:21:05
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                           1           0  0.10s           2023-02-23T18:21:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                               1           0  0.10s           2023-02-23T18:21:32
+================================================================================
+[2023-02-23 10:21:58,103] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:21:58,105] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:22:02,263] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:21:58
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:21:35
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:21:33
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:22:02
+================================================================================
+[2023-02-23 10:22:32,441] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:22:05
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:22:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:22:32
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.71s           2023-02-23T18:22:29
+================================================================================
+[2023-02-23 10:23:03,488] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:22:38
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:22:34
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:23:03
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:23:00
+================================================================================
+[2023-02-23 10:23:34,037] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:23:08
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:23:04
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:23:34
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:23:30
+================================================================================
+[2023-02-23 10:24:03,591] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-23 10:24:09,364] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-23 10:24:09,364] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-23 10:24:09,364] {manager.py:482} INFO - Checking for new files in /home/alura/Documents/PrevisaoTempo/airflow/dags every 300 seconds
+[2023-02-23 10:24:09,364] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:24:09,365] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:24:09,905] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.51s           2023-02-23T18:24:09
+================================================================================
+[2023-02-23 10:24:40,596] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:24:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.20s           2023-02-23T18:24:12
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.11s           2023-02-23T18:24:11
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:24:40
+================================================================================
+[2023-02-23 10:25:11,239] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:24:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:24:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:24:41
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:25:11
+================================================================================
+[2023-02-23 10:25:41,593] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:25:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:25:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:25:11
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:25:41
+================================================================================
+[2023-02-23 10:26:11,746] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:26:11
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:25:45
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:25:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:25:41
+================================================================================
+[2023-02-23 10:26:41,898] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:26:41
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:26:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:26:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:26:12
+================================================================================
+[2023-02-23 10:27:10,600] {manager.py:511} INFO - DAG Dados_Climaticos is missing and will be deactivated.
+[2023-02-23 10:27:10,603] {manager.py:521} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-02-23 10:27:12,055] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:27:12
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:26:45
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:26:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:26:42
+================================================================================
+[2023-02-23 10:27:42,207] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:27:42
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:27:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:27:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:27:12
+================================================================================
+[2023-02-23 10:28:12,320] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:28:12
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:27:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:27:45
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:27:42
+================================================================================
+[2023-02-23 10:28:42,474] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:28:42
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:28:16
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:28:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:28:13
+================================================================================
+[2023-02-23 10:29:09,374] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:29:09,376] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:29:12,636] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:29:12
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:28:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:28:45
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:28:43
+================================================================================
+[2023-02-23 10:29:42,791] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:29:42
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:29:17
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:29:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:29:13
+================================================================================
+[2023-02-23 10:30:12,948] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:30:12
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:29:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:29:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:29:43
+================================================================================
+[2023-02-23 10:30:43,098] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:30:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:30:17
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:30:16
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:30:14
+================================================================================
+[2023-02-23 10:31:13,255] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:31:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:30:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:30:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:30:44
+================================================================================
+[2023-02-23 10:31:43,408] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:31:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:31:17
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:31:16
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:31:14
+================================================================================
+[2023-02-23 10:32:13,566] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:32:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:31:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:31:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:31:44
+================================================================================
+[2023-02-23 10:32:43,718] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:32:43
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:32:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:32:16
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:32:14
+================================================================================
+[2023-02-23 10:33:13,876] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:33:13
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:32:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:32:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:32:44
+================================================================================
+[2023-02-23 10:33:44,028] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:33:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:33:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:33:17
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:33:15
+================================================================================
+[2023-02-23 10:34:09,414] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:34:09,415] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:34:14,183] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:34:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:33:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:33:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:33:45
+================================================================================
+[2023-02-23 10:34:44,339] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:34:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:34:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:34:17
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:34:15
+================================================================================
+[2023-02-23 10:35:14,495] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:35:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:34:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:34:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:34:45
+================================================================================
+[2023-02-23 10:35:44,649] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.11s           2023-02-23T18:35:44
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:35:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:35:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:35:15
+================================================================================
+[2023-02-23 10:36:14,803] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           0           1  0.10s           2023-02-23T18:36:14
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:35:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.11s           2023-02-23T18:35:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:35:45
+================================================================================
+[2023-02-23 10:36:45,257] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:36:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:36:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:36:15
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.41s           2023-02-23T18:36:45
+================================================================================
+[2023-02-23 10:37:15,716] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:36:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:36:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:36:46
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.41s           2023-02-23T18:37:15
+================================================================================
+[2023-02-23 10:37:46,512] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:37:20
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:37:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:37:16
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:37:46
+================================================================================
+[2023-02-23 10:38:17,495] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.11s           2023-02-23T18:37:50
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:37:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.11s           2023-02-23T18:37:47
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.41s           2023-02-23T18:38:17
+================================================================================
+[2023-02-23 10:38:47,884] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:38:20
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:38:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:38:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:38:47
+================================================================================
+[2023-02-23 10:39:09,449] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:39:09,450] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:39:18,268] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:38:50
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:38:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:38:48
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:39:18
+================================================================================
+[2023-02-23 10:39:48,648] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:39:21
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:39:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:39:18
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:39:48
+================================================================================
+[2023-02-23 10:40:19,003] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:39:51
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:39:50
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:39:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:40:19
+================================================================================
+[2023-02-23 10:40:49,363] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:40:21
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:40:20
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:40:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:40:49
+================================================================================
+[2023-02-23 10:41:19,728] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:40:51
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:40:50
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:40:49
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:41:19
+================================================================================
+[2023-02-23 10:41:50,089] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:41:22
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:41:21
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:41:19
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:41:50
+================================================================================
+[2023-02-23 10:42:21,185] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.11s           2023-02-23T18:41:53
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:41:52
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:41:51
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:42:21
+================================================================================
+[2023-02-23 10:42:51,799] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:42:24
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:42:23
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:42:21
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:42:51
+================================================================================
+[2023-02-23 10:43:22,276] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:42:54
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:42:53
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:42:52
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.41s           2023-02-23T18:43:22
+================================================================================
+[2023-02-23 10:43:44,592] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-23 10:43:51,280] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-23 10:43:51,280] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-23 10:43:51,280] {manager.py:482} INFO - Checking for new files in /home/alura/Documents/PrevisaoTempo/airflow/dags every 300 seconds
+[2023-02-23 10:43:51,280] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:43:51,287] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:43:51,718] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     0           0
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.41s           2023-02-23T18:43:51
+================================================================================
+[2023-02-23 10:44:22,565] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.11s           2023-02-23T18:43:55
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:43:54
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.20s           2023-02-23T18:43:52
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:44:22
+================================================================================
+[2023-02-23 10:44:52,919] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.11s           2023-02-23T18:44:25
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.11s           2023-02-23T18:44:24
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:44:23
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:44:52
+================================================================================
+[2023-02-23 10:45:23,272] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:44:55
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:44:54
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:44:53
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:45:23
+================================================================================
+[2023-02-23 10:45:53,627] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:45:25
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:45:24
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:45:23
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:45:53
+================================================================================
+[2023-02-23 10:46:23,983] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:45:56
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:45:54
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:45:53
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:46:23
+================================================================================
+[2023-02-23 10:46:54,343] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:46:27
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:46:26
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:46:25
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.30s           2023-02-23T18:46:54
+================================================================================
+[2023-02-23 10:47:24,704] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:46:57
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:46:56
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:46:55
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:47:24
+================================================================================
+[2023-02-23 10:47:55,070] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.11s           2023-02-23T18:47:28
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:47:26
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:47:25
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:47:55
+================================================================================
+[2023-02-23 10:48:25,431] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/airflow/dags/tarefas.py                                   1           0  0.10s           2023-02-23T18:47:58
+/home/alura/Documents/PrevisaoTempo/airflow/dags/hellowold.py                                 1           0  0.10s           2023-02-23T18:47:57
+/home/alura/Documents/PrevisaoTempo/airflow/dags/jinja.py                                     1           0  0.10s           2023-02-23T18:47:56
+/home/alura/Documents/PrevisaoTempo/airflow/dags/getDataClimatic.py                           1           0  0.31s           2023-02-23T18:48:25
+================================================================================
+[2023-02-23 10:48:51,283] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:48:51,284] {manager.py:693} INFO - There are 4 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 10:48:55,904] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15

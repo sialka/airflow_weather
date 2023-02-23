@@ -2,3 +2,4 @@ ambiente.sh
 /venv/*
 /py/key.py
 /airflow/logs/*
+/airflow/airflow.db
