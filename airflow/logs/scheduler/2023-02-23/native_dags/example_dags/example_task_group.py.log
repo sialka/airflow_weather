@@ -1,0 +1,67 @@
+[2023-02-23 09:31:56,785] {processor.py:153} INFO - Started process (PID=33798) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:31:56,786] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:31:56,786] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,786] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:31:56,791] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:31:56,839] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,838] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-02-23 09:31:56,846] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,846] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-02-23 09:31:56,852] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,852] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-02-23 09:31:56,852] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:31:56,859] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,859] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2023-02-23 09:31:56,865] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,865] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:31:56.864974+00:00, run_after=2023-02-23T17:31:56.864974+00:00
+[2023-02-23 09:31:56,877] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds
+[2023-02-23 09:32:28,710] {processor.py:153} INFO - Started process (PID=34022) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:32:28,711] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:32:28,711] {logging_mixin.py:115} INFO - [2023-02-23 09:32:28,711] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:32:28,714] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:32:28,723] {logging_mixin.py:115} INFO - [2023-02-23 09:32:28,723] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:28,733] {logging_mixin.py:115} INFO - [2023-02-23 09:32:28,733] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:32:28.733016+00:00, run_after=2023-02-23T17:32:28.733016+00:00
+[2023-02-23 09:32:28,739] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.031 seconds
+[2023-02-23 09:33:00,669] {processor.py:153} INFO - Started process (PID=34200) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:00,669] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:33:00,670] {logging_mixin.py:115} INFO - [2023-02-23 09:33:00,670] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:00,675] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:00,684] {logging_mixin.py:115} INFO - [2023-02-23 09:33:00,684] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:00,697] {logging_mixin.py:115} INFO - [2023-02-23 09:33:00,697] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:33:00.697169+00:00, run_after=2023-02-23T17:33:00.697169+00:00
+[2023-02-23 09:33:00,704] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds
+[2023-02-23 09:33:35,383] {processor.py:153} INFO - Started process (PID=34401) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:35,384] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:33:35,384] {logging_mixin.py:115} INFO - [2023-02-23 09:33:35,384] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:35,387] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:33:35,396] {logging_mixin.py:115} INFO - [2023-02-23 09:33:35,396] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:35,406] {logging_mixin.py:115} INFO - [2023-02-23 09:33:35,406] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:33:35.406091+00:00, run_after=2023-02-23T17:33:35.406091+00:00
+[2023-02-23 09:33:35,412] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.031 seconds
+[2023-02-23 09:34:06,233] {processor.py:153} INFO - Started process (PID=34594) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:06,234] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:34:06,234] {logging_mixin.py:115} INFO - [2023-02-23 09:34:06,234] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:06,237] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:06,247] {logging_mixin.py:115} INFO - [2023-02-23 09:34:06,247] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:06,258] {logging_mixin.py:115} INFO - [2023-02-23 09:34:06,258] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:34:06.258348+00:00, run_after=2023-02-23T17:34:06.258348+00:00
+[2023-02-23 09:34:06,265] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.034 seconds
+[2023-02-23 09:34:41,086] {processor.py:153} INFO - Started process (PID=35190) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:41,087] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:34:41,087] {logging_mixin.py:115} INFO - [2023-02-23 09:34:41,087] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:41,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:34:41,100] {logging_mixin.py:115} INFO - [2023-02-23 09:34:41,100] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:41,112] {logging_mixin.py:115} INFO - [2023-02-23 09:34:41,112] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:34:41.111923+00:00, run_after=2023-02-23T17:34:41.111923+00:00
+[2023-02-23 09:34:41,119] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.034 seconds
+[2023-02-23 09:35:12,935] {processor.py:153} INFO - Started process (PID=35385) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:12,935] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:35:12,935] {logging_mixin.py:115} INFO - [2023-02-23 09:35:12,935] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:12,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:12,948] {logging_mixin.py:115} INFO - [2023-02-23 09:35:12,948] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:12,959] {logging_mixin.py:115} INFO - [2023-02-23 09:35:12,959] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:35:12.959382+00:00, run_after=2023-02-23T17:35:12.959382+00:00
+[2023-02-23 09:35:12,967] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.034 seconds
+[2023-02-23 09:35:45,717] {processor.py:153} INFO - Started process (PID=35617) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:45,717] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:35:45,718] {logging_mixin.py:115} INFO - [2023-02-23 09:35:45,718] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:45,721] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:35:45,730] {logging_mixin.py:115} INFO - [2023-02-23 09:35:45,730] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:45,742] {logging_mixin.py:115} INFO - [2023-02-23 09:35:45,741] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:35:45.741758+00:00, run_after=2023-02-23T17:35:45.741758+00:00
+[2023-02-23 09:35:45,749] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.034 seconds
+[2023-02-23 09:36:19,501] {processor.py:153} INFO - Started process (PID=35818) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:36:19,502] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-23 09:36:19,502] {logging_mixin.py:115} INFO - [2023-02-23 09:36:19,502] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:36:19,506] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-23 09:36:19,516] {logging_mixin.py:115} INFO - [2023-02-23 09:36:19,516] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:36:19,527] {logging_mixin.py:115} INFO - [2023-02-23 09:36:19,527] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-22T17:36:19.527362+00:00, run_after=2023-02-23T17:36:19.527362+00:00
+[2023-02-23 09:36:19,534] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.034 seconds

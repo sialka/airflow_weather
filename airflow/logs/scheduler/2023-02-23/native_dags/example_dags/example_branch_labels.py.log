@@ -1,0 +1,60 @@
+[2023-02-23 09:32:09,308] {processor.py:153} INFO - Started process (PID=33884) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:09,309] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:32:09,309] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,309] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:09,313] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:09,346] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,346] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2023-02-23 09:32:09,350] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,350] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2023-02-23 09:32:09,354] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,354] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2023-02-23 09:32:09,354] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,354] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:09,359] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,358] {dag.py:2398} INFO - Creating ORM DAG for example_branch_labels
+[2023-02-23 09:32:09,364] {logging_mixin.py:115} INFO - [2023-02-23 09:32:09,364] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:32:09,370] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.063 seconds
+[2023-02-23 09:32:41,222] {processor.py:153} INFO - Started process (PID=34085) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:41,222] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:32:41,222] {logging_mixin.py:115} INFO - [2023-02-23 09:32:41,222] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:41,226] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:32:41,235] {logging_mixin.py:115} INFO - [2023-02-23 09:32:41,234] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:41,246] {logging_mixin.py:115} INFO - [2023-02-23 09:32:41,246] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:32:41,255] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.034 seconds
+[2023-02-23 09:33:13,763] {processor.py:153} INFO - Started process (PID=34281) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:13,763] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:33:13,764] {logging_mixin.py:115} INFO - [2023-02-23 09:33:13,763] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:13,767] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:13,775] {logging_mixin.py:115} INFO - [2023-02-23 09:33:13,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:13,786] {logging_mixin.py:115} INFO - [2023-02-23 09:33:13,786] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:33:13,793] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.032 seconds
+[2023-02-23 09:33:47,949] {processor.py:153} INFO - Started process (PID=34481) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:47,949] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:33:47,950] {logging_mixin.py:115} INFO - [2023-02-23 09:33:47,950] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:47,953] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:33:47,961] {logging_mixin.py:115} INFO - [2023-02-23 09:33:47,961] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:47,971] {logging_mixin.py:115} INFO - [2023-02-23 09:33:47,971] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:33:47,978] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.030 seconds
+[2023-02-23 09:34:20,551] {processor.py:153} INFO - Started process (PID=35020) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:20,551] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:34:20,552] {logging_mixin.py:115} INFO - [2023-02-23 09:34:20,552] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:20,555] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:20,564] {logging_mixin.py:115} INFO - [2023-02-23 09:34:20,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:20,576] {logging_mixin.py:115} INFO - [2023-02-23 09:34:20,576] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:34:20,582] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.033 seconds
+[2023-02-23 09:34:55,151] {processor.py:153} INFO - Started process (PID=35272) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:55,152] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:34:55,152] {logging_mixin.py:115} INFO - [2023-02-23 09:34:55,152] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:55,156] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:34:55,164] {logging_mixin.py:115} INFO - [2023-02-23 09:34:55,164] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:55,176] {logging_mixin.py:115} INFO - [2023-02-23 09:34:55,176] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:34:55,183] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.033 seconds
+[2023-02-23 09:35:28,061] {processor.py:153} INFO - Started process (PID=35481) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:35:28,061] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:35:28,061] {logging_mixin.py:115} INFO - [2023-02-23 09:35:28,061] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:35:28,065] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:35:28,075] {logging_mixin.py:115} INFO - [2023-02-23 09:35:28,075] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:28,086] {logging_mixin.py:115} INFO - [2023-02-23 09:35:28,086] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:35:28,093] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.033 seconds
+[2023-02-23 09:36:01,695] {processor.py:153} INFO - Started process (PID=35713) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:36:01,696] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-23 09:36:01,696] {logging_mixin.py:115} INFO - [2023-02-23 09:36:01,696] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:36:01,699] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-23 09:36:01,709] {logging_mixin.py:115} INFO - [2023-02-23 09:36:01,709] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:36:01,721] {logging_mixin.py:115} INFO - [2023-02-23 09:36:01,721] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-02-22T00:00:00+00:00, run_after=2023-02-23T00:00:00+00:00
+[2023-02-23 09:36:01,727] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.034 seconds

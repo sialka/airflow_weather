@@ -1,0 +1,76 @@
+[2023-02-23 09:31:51,548] {processor.py:153} INFO - Started process (PID=33754) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:31:51,548] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:31:51,549] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,548] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:31:51,560] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,560] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:31:51,560] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:31:51,620] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,620] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2023-02-23 09:31:51,628] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,628] {manager.py:508} INFO - Created Permission View: can read on DAG:example_python_operator
+[2023-02-23 09:31:51,636] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,636] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2023-02-23 09:31:51,636] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,636] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:31:51,644] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,644] {dag.py:2398} INFO - Creating ORM DAG for example_python_operator
+[2023-02-23 09:31:51,653] {logging_mixin.py:115} INFO - [2023-02-23 09:31:51,652] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:31:51,668] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.123 seconds
+[2023-02-23 09:32:22,447] {processor.py:153} INFO - Started process (PID=33985) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:22,447] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:32:22,448] {logging_mixin.py:115} INFO - [2023-02-23 09:32:22,448] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:22,461] {logging_mixin.py:115} INFO - [2023-02-23 09:32:22,461] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:32:22,462] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:22,477] {logging_mixin.py:115} INFO - [2023-02-23 09:32:22,477] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:22,491] {logging_mixin.py:115} INFO - [2023-02-23 09:32:22,490] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:32:22,500] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.055 seconds
+[2023-02-23 09:32:55,489] {processor.py:153} INFO - Started process (PID=34164) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:55,490] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:32:55,490] {logging_mixin.py:115} INFO - [2023-02-23 09:32:55,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:55,499] {logging_mixin.py:115} INFO - [2023-02-23 09:32:55,499] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:32:55,500] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:32:55,510] {logging_mixin.py:115} INFO - [2023-02-23 09:32:55,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:55,519] {logging_mixin.py:115} INFO - [2023-02-23 09:32:55,519] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:32:55,526] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2023-02-23 09:33:29,166] {processor.py:153} INFO - Started process (PID=34366) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:33:29,167] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:33:29,167] {logging_mixin.py:115} INFO - [2023-02-23 09:33:29,167] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:33:29,178] {logging_mixin.py:115} INFO - [2023-02-23 09:33:29,178] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:33:29,179] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:33:29,189] {logging_mixin.py:115} INFO - [2023-02-23 09:33:29,189] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:29,197] {logging_mixin.py:115} INFO - [2023-02-23 09:33:29,197] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:33:29,204] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2023-02-23 09:34:01,103] {processor.py:153} INFO - Started process (PID=34565) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:01,104] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:34:01,104] {logging_mixin.py:115} INFO - [2023-02-23 09:34:01,104] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:01,113] {logging_mixin.py:115} INFO - [2023-02-23 09:34:01,113] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:34:01,113] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:01,124] {logging_mixin.py:115} INFO - [2023-02-23 09:34:01,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:01,133] {logging_mixin.py:115} INFO - [2023-02-23 09:34:01,133] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:34:01,141] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2023-02-23 09:34:35,023] {processor.py:153} INFO - Started process (PID=35159) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:35,024] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:34:35,024] {logging_mixin.py:115} INFO - [2023-02-23 09:34:35,024] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:35,034] {logging_mixin.py:115} INFO - [2023-02-23 09:34:35,034] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:34:35,034] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:34:35,044] {logging_mixin.py:115} INFO - [2023-02-23 09:34:35,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:35,053] {logging_mixin.py:115} INFO - [2023-02-23 09:34:35,053] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:34:35,060] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2023-02-23 09:35:06,672] {processor.py:153} INFO - Started process (PID=35346) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:06,672] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:35:06,673] {logging_mixin.py:115} INFO - [2023-02-23 09:35:06,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:06,682] {logging_mixin.py:115} INFO - [2023-02-23 09:35:06,682] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:35:06,682] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:06,692] {logging_mixin.py:115} INFO - [2023-02-23 09:35:06,692] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:06,701] {logging_mixin.py:115} INFO - [2023-02-23 09:35:06,701] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:35:06,709] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-02-23 09:35:40,872] {processor.py:153} INFO - Started process (PID=35578) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:40,873] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:35:40,873] {logging_mixin.py:115} INFO - [2023-02-23 09:35:40,873] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:40,882] {logging_mixin.py:115} INFO - [2023-02-23 09:35:40,882] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:35:40,883] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:35:40,893] {logging_mixin.py:115} INFO - [2023-02-23 09:35:40,893] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:40,902] {logging_mixin.py:115} INFO - [2023-02-23 09:35:40,902] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:35:40,909] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2023-02-23 09:36:13,353] {processor.py:153} INFO - Started process (PID=35780) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:36:13,354] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-02-23 09:36:13,354] {logging_mixin.py:115} INFO - [2023-02-23 09:36:13,354] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:36:13,363] {logging_mixin.py:115} INFO - [2023-02-23 09:36:13,363] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-02-23 09:36:13,364] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-02-23 09:36:13,375] {logging_mixin.py:115} INFO - [2023-02-23 09:36:13,375] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:36:13,386] {logging_mixin.py:115} INFO - [2023-02-23 09:36:13,386] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-02-23 09:36:13,394] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.042 seconds

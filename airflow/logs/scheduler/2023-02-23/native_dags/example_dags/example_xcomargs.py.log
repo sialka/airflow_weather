@@ -1,0 +1,80 @@
+[2023-02-23 09:31:56,181] {processor.py:153} INFO - Started process (PID=33785) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:31:56,182] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:31:56,182] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,182] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:31:56,193] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:31:56,227] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,227] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2023-02-23 09:31:56,233] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,233] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2023-02-23 09:31:56,237] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,237] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2023-02-23 09:31:56,246] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,246] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2023-02-23 09:31:56,250] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,250] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2023-02-23 09:31:56,254] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,253] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2023-02-23 09:31:56,254] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,254] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:31:56,258] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,258] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2023-02-23 09:31:56,258] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,258] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2023-02-23 09:31:56,263] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,263] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:31:56,263] {logging_mixin.py:115} INFO - [2023-02-23 09:31:56,263] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:31:56,272] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.092 seconds
+[2023-02-23 09:32:26,685] {processor.py:153} INFO - Started process (PID=34010) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:26,685] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:32:26,685] {logging_mixin.py:115} INFO - [2023-02-23 09:32:26,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:26,695] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:26,719] {logging_mixin.py:115} INFO - [2023-02-23 09:32:26,719] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:32:26,727] {logging_mixin.py:115} INFO - [2023-02-23 09:32:26,727] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:32:26,727] {logging_mixin.py:115} INFO - [2023-02-23 09:32:26,727] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:32:26,734] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds
+[2023-02-23 09:32:58,364] {processor.py:153} INFO - Started process (PID=34189) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:58,365] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:32:58,365] {logging_mixin.py:115} INFO - [2023-02-23 09:32:58,365] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:58,377] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:32:58,389] {logging_mixin.py:115} INFO - [2023-02-23 09:32:58,389] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:32:58,399] {logging_mixin.py:115} INFO - [2023-02-23 09:32:58,399] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:32:58,400] {logging_mixin.py:115} INFO - [2023-02-23 09:32:58,400] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:32:58,406] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.043 seconds
+[2023-02-23 09:33:33,123] {processor.py:153} INFO - Started process (PID=34387) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:33:33,123] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:33:33,123] {logging_mixin.py:115} INFO - [2023-02-23 09:33:33,123] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:33:33,133] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:33:33,156] {logging_mixin.py:115} INFO - [2023-02-23 09:33:33,156] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:33:33,163] {logging_mixin.py:115} INFO - [2023-02-23 09:33:33,163] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:33:33,163] {logging_mixin.py:115} INFO - [2023-02-23 09:33:33,163] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:33:33,171] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds
+[2023-02-23 09:34:04,637] {processor.py:153} INFO - Started process (PID=34586) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:04,637] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:34:04,638] {logging_mixin.py:115} INFO - [2023-02-23 09:34:04,638] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:04,648] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:04,671] {logging_mixin.py:115} INFO - [2023-02-23 09:34:04,671] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:34:04,679] {logging_mixin.py:115} INFO - [2023-02-23 09:34:04,679] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:34:04,679] {logging_mixin.py:115} INFO - [2023-02-23 09:34:04,679] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:34:04,686] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds
+[2023-02-23 09:34:39,344] {processor.py:153} INFO - Started process (PID=35180) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:39,344] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:34:39,344] {logging_mixin.py:115} INFO - [2023-02-23 09:34:39,344] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:39,354] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:34:39,368] {logging_mixin.py:115} INFO - [2023-02-23 09:34:39,368] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:34:39,378] {logging_mixin.py:115} INFO - [2023-02-23 09:34:39,378] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:34:39,378] {logging_mixin.py:115} INFO - [2023-02-23 09:34:39,378] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:34:39,384] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.043 seconds
+[2023-02-23 09:35:11,183] {processor.py:153} INFO - Started process (PID=35372) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:11,183] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:35:11,183] {logging_mixin.py:115} INFO - [2023-02-23 09:35:11,183] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:11,194] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:11,219] {logging_mixin.py:115} INFO - [2023-02-23 09:35:11,219] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:35:11,227] {logging_mixin.py:115} INFO - [2023-02-23 09:35:11,227] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:35:11,227] {logging_mixin.py:115} INFO - [2023-02-23 09:35:11,227] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:35:11,235] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.054 seconds
+[2023-02-23 09:35:44,320] {processor.py:153} INFO - Started process (PID=35609) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:44,321] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:35:44,321] {logging_mixin.py:115} INFO - [2023-02-23 09:35:44,321] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:44,336] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:35:44,350] {logging_mixin.py:115} INFO - [2023-02-23 09:35:44,350] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:35:44,361] {logging_mixin.py:115} INFO - [2023-02-23 09:35:44,361] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:35:44,361] {logging_mixin.py:115} INFO - [2023-02-23 09:35:44,361] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:35:44,369] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.052 seconds
+[2023-02-23 09:36:17,222] {processor.py:153} INFO - Started process (PID=35801) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:36:17,223] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-23 09:36:17,223] {logging_mixin.py:115} INFO - [2023-02-23 09:36:17,223] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:36:17,232] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-23 09:36:17,256] {logging_mixin.py:115} INFO - [2023-02-23 09:36:17,256] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-23 09:36:17,264] {logging_mixin.py:115} INFO - [2023-02-23 09:36:17,264] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-23 09:36:17,264] {logging_mixin.py:115} INFO - [2023-02-23 09:36:17,264] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-23 09:36:17,271] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds

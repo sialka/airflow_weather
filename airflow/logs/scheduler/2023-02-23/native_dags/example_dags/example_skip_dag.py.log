@@ -1,0 +1,67 @@
+[2023-02-23 09:31:53,930] {processor.py:153} INFO - Started process (PID=33767) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:31:53,931] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:31:53,932] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,932] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:31:53,935] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:31:53,969] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,969] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-02-23 09:31:53,974] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,974] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-02-23 09:31:53,978] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,978] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-02-23 09:31:53,978] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,978] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:31:53,982] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,982] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2023-02-23 09:31:53,986] {logging_mixin.py:115} INFO - [2023-02-23 09:31:53,986] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:31:53.986341+00:00, run_after=2023-02-23T17:31:53.986341+00:00
+[2023-02-23 09:31:53,994] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2023-02-23 09:32:24,704] {processor.py:153} INFO - Started process (PID=33998) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:24,704] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:32:24,705] {logging_mixin.py:115} INFO - [2023-02-23 09:32:24,705] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:24,707] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:24,717] {logging_mixin.py:115} INFO - [2023-02-23 09:32:24,717] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:24,728] {logging_mixin.py:115} INFO - [2023-02-23 09:32:24,728] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:32:24.728550+00:00, run_after=2023-02-23T17:32:24.728550+00:00
+[2023-02-23 09:32:24,736] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2023-02-23 09:32:56,941] {processor.py:153} INFO - Started process (PID=34175) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:56,941] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:32:56,942] {logging_mixin.py:115} INFO - [2023-02-23 09:32:56,942] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:56,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:32:56,954] {logging_mixin.py:115} INFO - [2023-02-23 09:32:56,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:32:56,967] {logging_mixin.py:115} INFO - [2023-02-23 09:32:56,967] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:32:56.967111+00:00, run_after=2023-02-23T17:32:56.967111+00:00
+[2023-02-23 09:32:56,976] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-02-23 09:33:31,421] {processor.py:153} INFO - Started process (PID=34377) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:33:31,421] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:33:31,421] {logging_mixin.py:115} INFO - [2023-02-23 09:33:31,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:33:31,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:33:31,433] {logging_mixin.py:115} INFO - [2023-02-23 09:33:31,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:33:31,443] {logging_mixin.py:115} INFO - [2023-02-23 09:33:31,443] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:33:31.443698+00:00, run_after=2023-02-23T17:33:31.443698+00:00
+[2023-02-23 09:33:31,450] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.031 seconds
+[2023-02-23 09:34:03,354] {processor.py:153} INFO - Started process (PID=34576) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:03,354] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:34:03,355] {logging_mixin.py:115} INFO - [2023-02-23 09:34:03,355] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:03,357] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:03,367] {logging_mixin.py:115} INFO - [2023-02-23 09:34:03,366] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:03,378] {logging_mixin.py:115} INFO - [2023-02-23 09:34:03,378] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:34:03.378229+00:00, run_after=2023-02-23T17:34:03.378229+00:00
+[2023-02-23 09:34:03,385] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2023-02-23 09:34:37,086] {processor.py:153} INFO - Started process (PID=35171) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:37,087] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:34:37,087] {logging_mixin.py:115} INFO - [2023-02-23 09:34:37,087] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:37,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:34:37,101] {logging_mixin.py:115} INFO - [2023-02-23 09:34:37,101] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:34:37,116] {logging_mixin.py:115} INFO - [2023-02-23 09:34:37,115] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:34:37.115610+00:00, run_after=2023-02-23T17:34:37.115610+00:00
+[2023-02-23 09:34:37,123] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-02-23 09:35:08,932] {processor.py:153} INFO - Started process (PID=35356) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:08,932] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:35:08,933] {logging_mixin.py:115} INFO - [2023-02-23 09:35:08,933] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:08,936] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:08,944] {logging_mixin.py:115} INFO - [2023-02-23 09:35:08,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:08,955] {logging_mixin.py:115} INFO - [2023-02-23 09:35:08,955] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:35:08.955348+00:00, run_after=2023-02-23T17:35:08.955348+00:00
+[2023-02-23 09:35:08,963] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.032 seconds
+[2023-02-23 09:35:42,620] {processor.py:153} INFO - Started process (PID=35594) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:42,621] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:35:42,621] {logging_mixin.py:115} INFO - [2023-02-23 09:35:42,621] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:42,624] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:35:42,633] {logging_mixin.py:115} INFO - [2023-02-23 09:35:42,632] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:35:42,647] {logging_mixin.py:115} INFO - [2023-02-23 09:35:42,647] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:35:42.646979+00:00, run_after=2023-02-23T17:35:42.646979+00:00
+[2023-02-23 09:35:42,654] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2023-02-23 09:36:14,971] {processor.py:153} INFO - Started process (PID=35792) to work on /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:36:14,972] {processor.py:641} INFO - Processing file /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-23 09:36:14,972] {logging_mixin.py:115} INFO - [2023-02-23 09:36:14,972] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:36:14,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-23 09:36:14,984] {logging_mixin.py:115} INFO - [2023-02-23 09:36:14,984] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-23 09:36:14,994] {logging_mixin.py:115} INFO - [2023-02-23 09:36:14,994] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-22T17:36:14.994598+00:00, run_after=2023-02-23T17:36:14.994598+00:00
+[2023-02-23 09:36:15,001] {processor.py:161} INFO - Processing /home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.031 seconds

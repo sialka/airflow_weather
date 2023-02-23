@@ -1,0 +1,416 @@
+[2023-02-23 09:31:41,538] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-23 09:31:41,538] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-23 09:31:41,539] {manager.py:482} INFO - Checking for new files in /home/alura/Documents/PrevisaoTempo/airflow/dags every 300 seconds
+[2023-02-23 09:31:41,539] {manager.py:690} INFO - Searching for files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 09:31:41,550] {manager.py:693} INFO - There are 34 files in /home/alura/Documents/PrevisaoTempo/airflow/dags
+[2023-02-23 09:31:41,672] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:31:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0
+================================================================================
+[2023-02-23 09:32:12,010] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:31:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:31:50
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:32:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:31:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:31:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.20s           2023-02-23T17:31:45
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:31:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:31:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:31:47
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:31:48
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:31:51
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.20s           2023-02-23T17:31:51
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:31:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:31:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:31:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:31:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:31:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:31:59
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:32:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:32:02
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:32:03
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:32:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:32:05
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:32:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:32:07
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:32:08
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:32:09
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:32:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:32:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:32:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:31:55
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:31:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:32:00
+================================================================================
+[2023-02-23 09:32:42,627] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:32:15
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:32:21
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:32:32
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:32:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:32:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:32:16
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:32:17
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:32:18
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:32:19
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:32:20
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.30s           2023-02-23T17:32:22
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:32:22
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:32:23
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.12s           2023-02-23T17:32:24
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:32:27
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:32:28
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:32:29
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:32:31
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:32:32
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:32:33
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:32:35
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:32:36
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:32:37
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:32:37
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:32:39
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:32:40
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:32:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:32:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:32:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:32:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:32:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:32:25
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:32:26
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:32:32
+================================================================================
+[2023-02-23 09:33:12,967] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:32:47
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:32:53
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:33:05
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:32:45
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:32:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:32:48
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:32:49
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:32:50
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:32:51
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:32:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:32:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:32:55
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:32:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:32:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:32:59
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:33:00
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:33:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:33:02
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:33:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:33:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:33:08
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:33:08
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:33:09
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:33:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:33:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:33:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:32:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:32:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:32:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:32:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:32:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:32:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:32:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:33:03
+================================================================================
+[2023-02-23 09:33:43,350] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:33:21
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:33:27
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:33:40
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:33:16
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:33:20
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:33:22
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:33:23
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:33:24
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:33:25
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:33:26
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:33:28
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:33:29
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:33:30
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:33:31
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:33:34
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:33:35
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:33:36
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:33:37
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:33:39
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:33:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:33:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:33:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:33:09
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:33:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:33:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:33:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:33:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:33:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:33:17
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:33:18
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:33:18
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2023-02-23T17:33:32
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:33:33
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:33:38
+================================================================================
+[2023-02-23 09:34:13,736] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:33:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:33:59
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:34:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:33:49
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:33:53
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:33:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:33:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:33:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:33:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:33:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:34:00
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:34:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:34:02
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:34:03
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:34:05
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:34:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:34:07
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:34:08
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:34:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:34:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:34:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:33:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:33:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:33:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:33:45
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:33:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:33:48
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:33:49
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:33:50
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:33:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:33:53
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:34:03
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:34:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:34:09
+================================================================================
+[2023-02-23 09:34:43,996] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:34:25
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:34:33
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:34:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:34:20
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:34:24
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:34:27
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:34:28
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:34:29
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:34:30
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:34:32
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:34:33
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:34:35
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:34:36
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:34:37
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:34:40
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:34:41
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:34:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:34:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:34:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:34:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:34:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:34:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:34:15
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:34:16
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.20s           2023-02-23T17:34:17
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.20s           2023-02-23T17:34:19
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:34:20
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:34:21
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:34:22
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:34:23
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:34:26
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:34:38
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:34:39
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:34:43
+================================================================================
+[2023-02-23 09:35:14,160] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:34:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:35:05
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:34:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:34:51
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:34:56
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:35:00
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:35:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:35:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:35:03
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:35:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:35:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:35:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:35:07
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:35:09
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:35:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:35:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:35:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:34:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:34:45
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:34:47
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:34:48
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:34:49
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:34:50
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:34:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:34:53
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:34:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:34:55
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:34:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:34:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:34:59
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:35:02
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:35:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:35:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:34:43
+================================================================================
+[2023-02-23 09:35:44,418] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:35:27
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:35:37
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2023-02-23T17:35:17
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:35:21
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:35:26
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:35:32
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:35:33
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:35:34
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:35:35
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:35:36
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:35:39
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:35:40
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:35:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:35:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:35:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:35:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:35:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:35:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:35:16
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:35:18
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:35:19
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:35:20
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:35:22
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:35:23
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:35:24
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:35:25
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:35:28
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:35:29
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:35:30
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:35:31
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:35:38
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:35:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:35:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:35:15
+================================================================================
+[2023-02-23 09:36:14,587] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2023-02-23T17:35:59
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2023-02-23T17:36:10
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2023-02-23T17:35:51
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2023-02-23T17:35:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2023-02-23T17:35:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2023-02-23T17:36:02
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2023-02-23T17:36:06
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2023-02-23T17:36:07
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2023-02-23T17:36:08
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2023-02-23T17:36:09
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2023-02-23T17:36:12
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2023-02-23T17:36:13
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2023-02-23T17:36:14
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2023-02-23T17:35:42
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2023-02-23T17:35:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2023-02-23T17:35:45
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2023-02-23T17:35:46
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2023-02-23T17:35:47
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2023-02-23T17:35:50
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2023-02-23T17:35:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2023-02-23T17:35:52
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2023-02-23T17:35:54
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2023-02-23T17:35:55
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2023-02-23T17:35:57
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2023-02-23T17:35:58
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2023-02-23T17:36:00
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2023-02-23T17:36:01
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2023-02-23T17:36:03
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2023-02-23T17:36:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2023-02-23T17:36:04
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2023-02-23T17:36:11
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2023-02-23T17:35:43
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2023-02-23T17:35:44
+/home/alura/Documents/PrevisaoTempo/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2023-02-23T17:35:48
+================================================================================
+[2023-02-23 09:36:22,584] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
